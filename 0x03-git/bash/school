@@ -1,3 +1,4 @@
 e  #!/bin/bash 
 ~e #!/bin/bash
 ~e echo"School"
+~e echo"The school is open!"
